@@ -1,0 +1,6 @@
+leader=http://123.123.123.123:2379
+servers=( http://123.123.123.123:2379 )
+keysize=( 64 256 512 )
+keys=("foo" "bar" "baz")
+con=200
+req=2000
